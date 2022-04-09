@@ -1,14 +1,14 @@
 [
 	{
-		name: "alice",
-		birthday: "01/01"
+		"name": "alice",
+		"birthday": "01/01"
 	},
 	{
-		name: "bob",
-		birthday: "06/02"
+		"name": "bob",
+		"birthday": "06/02"
 	},
 	{
-		name: "chris",
-		birthday: "9/11"
+		"name": "chris",
+		"birthday": "9/11"
 	}
 ]
